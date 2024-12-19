@@ -12,7 +12,7 @@ function Text() {
         </p>
       </div>
       <div className={styles.footer}>
-        <img src="./avatar.png" className={styles.avatar} />
+        <img src="./avatar.png" className={styles.avatar} alt="avatar-img" />
         <span>Greg Hooper</span>
       </div>
     </>
